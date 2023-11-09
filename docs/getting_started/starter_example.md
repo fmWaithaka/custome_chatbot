@@ -93,7 +93,7 @@ The schools and institutes are:
 
 ### Leadership
 
-- Chancellor: [Chancellor's Name]
+- Chancellor: Gen (rtd) Julius W. Karangi.
 - Vice Chancellor: Prof. Peter N. Muchiri
 - Council Chairperson: Dr. James Kariuki
 
